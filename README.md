@@ -20,6 +20,5 @@ To analyze occupancy rates, customer satisfaction, and revenue performance acros
 ### 📂 Files Included
 - `Hospitality_Analysis.pdf` – Full report and visualization summary  
  
-### 🔗 Links
-[View Project Report (PDF)](Hospitality_Analysis.pdf)
+
 
