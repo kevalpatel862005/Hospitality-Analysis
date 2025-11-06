@@ -17,8 +17,7 @@ To analyze occupancy rates, customer satisfaction, and revenue performance acros
 - Analyzed year-over-year growth and pricing impact on satisfaction.
 - Recommended strategies like dynamic pricing and market diversification.
 
-### 📂 Files Included
-- `Hospitality_Analysis.pdf` – Full report and visualization summary  
+  
  
 
 
